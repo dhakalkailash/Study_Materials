@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<!-- This program will create the table and enters the contains inside the table
+Name Kailash Dhakal
+CSC 635 
+Major Computer Sceince 
+Date Janaury 17, 2023 -->
+<head>
+    <title> A simple HTML5 table </title>
+    <meta content="text/html; charset=utf-8" />
+</head>
+
+<body>
+    <!-- the <table> tag helps to open the table and </table> will close the table -->
+    <table border="1">
+
+        <!-- Now the <caption> tag summerize the contains of table </caption> this tag will close the summary space -->
+        <!-- Summery will help the clients to know about the contents  -->
+        <caption> <strong> Table of Fruits (1st Column) and Their Prices (2nd Column)</strong></caption>
+        
+        <!-- This section will appears first in the table 
+        This formates the table header area-->
+        <thead>
+            <tr> <!-- This helps to insert the row inside the table -->
+                <th>Fruits</th>  <!-- This helps to insert the heading cell inside the table -->
+                <th>Price</th>
+        </tr>
+        </thead>
+
+
+        <!-- Now this section will appear at the last in the table 
+        Because this will format the table footers -->
+        <tfoot>
+            <tr>
+                <th>Total</th>
+                <th>$3.75</th>
+            </tr>
+        </tfoot>
+        <!-- all table content is now enclosed with the <tbody></tbody> -->
+
+
+        <tbody>
+            <tr>
+                <!-- <td>Apple</td>  This is to insert the data in the table cell -->
+                <td>$0.25</td>
+            </tr>
+            <tr>
+                <td>Orange</td>
+                <td>$0.50</td>
+            </tr>
+            <tr>
+                <td>Banana</td>
+                <td>$1.00</td>
+            </tr>
+            <tr>
+                <td>Pineapple</td>
+                <td>$2.00</td>
+            </tr>
+
+        </tbody>
+
+    </table>
+</body>
+</html>

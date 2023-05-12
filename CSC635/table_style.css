@@ -1,0 +1,102 @@
+table, th, td { border: 1px solid black; border-collapse: collapse; }
+th, td { padding: 5px; text-align: center; }
+.grayscale { background-color: #CCCCCC; margin-left:auto; margin-right:auto;}
+.rainbow {
+border-collapse: collapse; margin-left:auto; margin-right:auto;
+}
+.rainbow0 {
+background-color: hsl(0.0, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow1 {
+background-color: hsl(11.25, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow2 {
+background-color: hsl(22.5, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow3 {
+background-color: hsl(33.75, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow4 {
+background-color: hsl(45.0, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow5 {
+background-color: hsl(56.25, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow6 {
+background-color: hsl(67.5, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow7 {
+background-color: hsl(78.75, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow8 {
+background-color: hsl(90.0, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow9 {
+background-color: hsl(101.25, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow10 {
+background-color: hsl(112.5, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow11 {
+background-color: hsl(123.75, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow12 {
+background-color: hsl(135.0, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow13 {
+background-color: hsl(146.25, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow14 {
+background-color: hsl(157.5, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow15 {
+background-color: hsl(168.75, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow16 {
+background-color: hsl(180.0, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow17 {
+background-color: hsl(191.25, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow18 {
+background-color: hsl(202.5, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow19 {
+background-color: hsl(213.75, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow20 {
+background-color: hsl(225.0, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow21 {
+background-color: hsl(236.25, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow22 {
+background-color: hsl(247.5, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow23 {
+background-color: hsl(258.75, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow24 {
+background-color: hsl(270.0, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow25 {
+background-color: hsl(281.25, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow26 {
+background-color: hsl(292.5, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow27 {
+background-color: hsl(303.75, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow28 {
+background-color: hsl(315.0, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow29 {
+background-color: hsl(326.25, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow30 {
+background-color: hsl(337.5, 100%, 75%); margin-left:auto; margin-right:auto;
+}
+.rainbow31 {
+background-color: hsl(348.75, 100%, 75%); margin-left:auto; margin-right:auto;
+}
